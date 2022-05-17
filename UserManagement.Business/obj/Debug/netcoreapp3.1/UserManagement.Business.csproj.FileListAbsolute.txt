@@ -1,0 +1,14 @@
+D:\Study\UserManagementSystem\UserManagement.Business\bin\Debug\netcoreapp3.1\UserManagement.Business.deps.json
+D:\Study\UserManagementSystem\UserManagement.Business\bin\Debug\netcoreapp3.1\UserManagement.Business.dll
+D:\Study\UserManagementSystem\UserManagement.Business\bin\Debug\netcoreapp3.1\UserManagement.Business.pdb
+D:\Study\UserManagementSystem\UserManagement.Business\obj\Debug\netcoreapp3.1\UserManagement.Business.csprojAssemblyReference.cache
+D:\Study\UserManagementSystem\UserManagement.Business\obj\Debug\netcoreapp3.1\UserManagement.Business.AssemblyInfoInputs.cache
+D:\Study\UserManagementSystem\UserManagement.Business\obj\Debug\netcoreapp3.1\UserManagement.Business.AssemblyInfo.cs
+D:\Study\UserManagementSystem\UserManagement.Business\obj\Debug\netcoreapp3.1\UserManagement.Business.csproj.CoreCompileInputs.cache
+D:\Study\UserManagementSystem\UserManagement.Business\obj\Debug\netcoreapp3.1\UserManagement.Business.dll
+D:\Study\UserManagementSystem\UserManagement.Business\obj\Debug\netcoreapp3.1\UserManagement.Business.pdb
+D:\Study\UserManagementSystem\UserManagement.Business\bin\Debug\netcoreapp3.1\UserManagement.Common.dll
+D:\Study\UserManagementSystem\UserManagement.Business\bin\Debug\netcoreapp3.1\UserManagement.DAL.dll
+D:\Study\UserManagementSystem\UserManagement.Business\bin\Debug\netcoreapp3.1\UserManagement.Common.pdb
+D:\Study\UserManagementSystem\UserManagement.Business\bin\Debug\netcoreapp3.1\UserManagement.DAL.pdb
+D:\Study\UserManagementSystem\UserManagement.Business\obj\Debug\netcoreapp3.1\UserManagement.Business.csproj.CopyComplete

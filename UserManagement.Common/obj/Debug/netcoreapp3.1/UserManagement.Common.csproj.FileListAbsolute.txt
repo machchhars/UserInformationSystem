@@ -1,0 +1,9 @@
+D:\Study\UserManagementSystem\UserManagement.Common\bin\Debug\netcoreapp3.1\UserManagement.Common.deps.json
+D:\Study\UserManagementSystem\UserManagement.Common\bin\Debug\netcoreapp3.1\UserManagement.Common.dll
+D:\Study\UserManagementSystem\UserManagement.Common\bin\Debug\netcoreapp3.1\UserManagement.Common.pdb
+D:\Study\UserManagementSystem\UserManagement.Common\obj\Debug\netcoreapp3.1\UserManagement.Common.AssemblyInfoInputs.cache
+D:\Study\UserManagementSystem\UserManagement.Common\obj\Debug\netcoreapp3.1\UserManagement.Common.AssemblyInfo.cs
+D:\Study\UserManagementSystem\UserManagement.Common\obj\Debug\netcoreapp3.1\UserManagement.Common.csproj.CoreCompileInputs.cache
+D:\Study\UserManagementSystem\UserManagement.Common\obj\Debug\netcoreapp3.1\UserManagement.Common.dll
+D:\Study\UserManagementSystem\UserManagement.Common\obj\Debug\netcoreapp3.1\UserManagement.Common.pdb
+D:\Study\UserManagementSystem\UserManagement.Common\obj\Debug\netcoreapp3.1\UserManagement.Common.csprojAssemblyReference.cache

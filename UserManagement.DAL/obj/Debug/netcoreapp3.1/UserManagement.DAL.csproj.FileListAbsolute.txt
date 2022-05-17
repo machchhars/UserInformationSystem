@@ -1,0 +1,15 @@
+D:\Study\UserManagementSystem\UserManagement.DAL\bin\Debug\netcoreapp3.1\UserManagement.DAL.deps.json
+D:\Study\UserManagementSystem\UserManagement.DAL\bin\Debug\netcoreapp3.1\UserManagement.DAL.runtimeconfig.json
+D:\Study\UserManagementSystem\UserManagement.DAL\bin\Debug\netcoreapp3.1\UserManagement.DAL.runtimeconfig.dev.json
+D:\Study\UserManagementSystem\UserManagement.DAL\bin\Debug\netcoreapp3.1\UserManagement.DAL.dll
+D:\Study\UserManagementSystem\UserManagement.DAL\bin\Debug\netcoreapp3.1\UserManagement.DAL.pdb
+D:\Study\UserManagementSystem\UserManagement.DAL\obj\Debug\netcoreapp3.1\UserManagement.DAL.csprojAssemblyReference.cache
+D:\Study\UserManagementSystem\UserManagement.DAL\obj\Debug\netcoreapp3.1\UserManagement.DAL.AssemblyInfoInputs.cache
+D:\Study\UserManagementSystem\UserManagement.DAL\obj\Debug\netcoreapp3.1\UserManagement.DAL.AssemblyInfo.cs
+D:\Study\UserManagementSystem\UserManagement.DAL\obj\Debug\netcoreapp3.1\UserManagement.DAL.csproj.CoreCompileInputs.cache
+D:\Study\UserManagementSystem\UserManagement.DAL\obj\Debug\netcoreapp3.1\UserManagement.DAL.dll
+D:\Study\UserManagementSystem\UserManagement.DAL\obj\Debug\netcoreapp3.1\UserManagement.DAL.pdb
+D:\Study\UserManagementSystem\UserManagement.DAL\obj\Debug\netcoreapp3.1\UserManagement.DAL.genruntimeconfig.cache
+D:\Study\UserManagementSystem\UserManagement.DAL\bin\Debug\netcoreapp3.1\UserManagement.Common.dll
+D:\Study\UserManagementSystem\UserManagement.DAL\bin\Debug\netcoreapp3.1\UserManagement.Common.pdb
+D:\Study\UserManagementSystem\UserManagement.DAL\obj\Debug\netcoreapp3.1\UserManagement.DAL.csproj.CopyComplete

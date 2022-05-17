@@ -1,0 +1,78 @@
+<div class="d-flex justify-content-between">
+    <h4>Update User</h4>
+    <button mat-icon-button (click)="onClose()">
+        <mat-icon>close</mat-icon>
+    </button>
+</div>
+
+<div style="overflow: auto; height: 450px;">
+    <form #form="ngForm" (submit)="onSubmit()" autocomplete="off">
+        <div class="mt-4 input-group">
+            <div class="input-group-prepend">
+                <span class="input-group-text">Name</span>
+            </div>
+            <input required type="text" class="form-control" name="Name" 
+                #Name="ngModel" [(ngModel)]="service.formData.Name">
+        </div>
+        <div class="text-left text-danger" 
+            *ngIf="Name.invalid && Name.touched">
+            Please enter Name
+        </div>
+        <div class="mt-4 input-group">
+            <div class="input-group-prepend">
+                <span class="input-group-text">Age</span>
+            </div>
+            <input type="number" min="1" class="form-control" name="Age" 
+                #Age="ngModel" [(ngModel)]="service.formData.Age">
+        </div>
+        <div class="mt-4 input-group">
+            <div class="input-group-prepend">
+                <span class="input-group-text">Gender</span>
+            </div>
+            <select class="form-control" name="Gender" 
+            #Gender="ngModel" [(ngModel)]="service.formData.Gender">
+                <option selected>Select Options</option>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="other">Other</option>
+            </select>
+        </div>
+        <div class="text-left text-danger" 
+            *ngIf="Gender.invalid && Gender.touched">
+            Please select Gender
+        </div>
+        <div class="mt-4 input-group">
+            <div class="input-group-prepend">
+                <span class="input-group-text">Email</span>
+            </div>
+            <input required type="email" email="true" class="form-control" name="Email" 
+                #Email="ngModel" [(ngModel)]="service.formData.Email">
+        </div>
+        <div class="text-left text-danger" 
+            *ngIf="Email.invalid && Email.touched">
+            Please enter Email
+        </div>
+        <div class="mt-4 input-group">
+            <div class="input-group-prepend">
+                <span class="input-group-text">Address</span>
+            </div>
+            <textarea row="5" maxlength="240" class="form-control" name="Address" 
+                #Address="ngModel" [(ngModel)]="service.formData.Address">
+            </textarea>
+        </div>
+        <div class="text-left text-danger" 
+            *ngIf="Address.invalid && Address.touched">
+            Address lenght should not be more then 240
+        </div>
+        <div class="mt-4 input-group">
+            <div class="input-group-prepend">
+                <span class="input-group-text">Mobile Number</span>
+            </div>
+            <input type="text" name="MobileNumber" class="form-control"
+            #MobileNumber="ngModel" [(ngModel)]="service.formData.MobileNumber">
+        </div>
+        <br />
+        <button class="mt-2" mat-raised-button color="primary" 
+                [disabled]="form.invalid" >Update User</button>
+    </form>
+</div>
